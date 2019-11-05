@@ -21,3 +21,10 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+*.docx 
+*.zip
+*.pdf
+*.xls
+package-lock.json
+yarn.lock

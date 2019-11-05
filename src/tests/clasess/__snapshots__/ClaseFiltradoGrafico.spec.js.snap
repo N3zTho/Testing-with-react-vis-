@@ -1,0 +1,1706 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`as a u user I can show filtered years 1`] = `
+Array [
+  <div
+    className="btn-group mt-3 mb-3"
+    role="group"
+  >
+    <button
+      className="btn btn-secondary"
+      onClick={[Function]}
+      type="button"
+    >
+      Linea
+    </button>
+    <button
+      className="btn btn-secondary"
+      onClick={[Function]}
+      type="button"
+    >
+      Barra
+    </button>
+    <button
+      className="btn btn-secondary"
+      onClick={[Function]}
+      type="button"
+    >
+      Pastel
+    </button>
+  </div>,
+  <div
+    className="rv-xy-plot "
+    style={
+      Object {
+        "height": "300px",
+        "width": "1000px",
+      }
+    }
+  >
+    <svg
+      className="rv-xy-plot__inner"
+      height={300}
+      onClick={[Function]}
+      onDoubleClick={[Function]}
+      onMouseDown={[Function]}
+      onMouseEnter={[Function]}
+      onMouseLeave={[Function]}
+      onMouseMove={[Function]}
+      onMouseUp={[Function]}
+      onTouchCancel={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      onWheel={[Function]}
+      width={1000}
+    >
+      <g
+        className="rv-xy-plot__grid-lines undefined"
+        transform="translate(40,10)"
+      >
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          x1={10.555555555555543}
+          x2={10.555555555555543}
+          y1={0}
+          y2={250}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          x1={31.666666666666654}
+          x2={31.666666666666654}
+          y1={0}
+          y2={250}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          x1={52.777777777777764}
+          x2={52.777777777777764}
+          y1={0}
+          y2={250}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          x1={73.88888888888887}
+          x2={73.88888888888887}
+          y1={0}
+          y2={250}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          x1={94.99999999999999}
+          x2={94.99999999999999}
+          y1={0}
+          y2={250}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          x1={116.1111111111111}
+          x2={116.1111111111111}
+          y1={0}
+          y2={250}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          x1={137.2222222222222}
+          x2={137.2222222222222}
+          y1={0}
+          y2={250}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          x1={158.33333333333331}
+          x2={158.33333333333331}
+          y1={0}
+          y2={250}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          x1={179.44444444444443}
+          x2={179.44444444444443}
+          y1={0}
+          y2={250}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          x1={200.55555555555554}
+          x2={200.55555555555554}
+          y1={0}
+          y2={250}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          x1={221.66666666666666}
+          x2={221.66666666666666}
+          y1={0}
+          y2={250}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          x1={242.77777777777777}
+          x2={242.77777777777777}
+          y1={0}
+          y2={250}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          x1={263.88888888888886}
+          x2={263.88888888888886}
+          y1={0}
+          y2={250}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          x1={285}
+          x2={285}
+          y1={0}
+          y2={250}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          x1={306.1111111111111}
+          x2={306.1111111111111}
+          y1={0}
+          y2={250}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          x1={327.22222222222223}
+          x2={327.22222222222223}
+          y1={0}
+          y2={250}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          x1={348.3333333333333}
+          x2={348.3333333333333}
+          y1={0}
+          y2={250}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          x1={369.4444444444444}
+          x2={369.4444444444444}
+          y1={0}
+          y2={250}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          x1={390.55555555555554}
+          x2={390.55555555555554}
+          y1={0}
+          y2={250}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          x1={411.66666666666663}
+          x2={411.66666666666663}
+          y1={0}
+          y2={250}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          x1={432.77777777777777}
+          x2={432.77777777777777}
+          y1={0}
+          y2={250}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          x1={453.88888888888886}
+          x2={453.88888888888886}
+          y1={0}
+          y2={250}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          x1={475}
+          x2={475}
+          y1={0}
+          y2={250}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          x1={496.1111111111111}
+          x2={496.1111111111111}
+          y1={0}
+          y2={250}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          x1={517.2222222222222}
+          x2={517.2222222222222}
+          y1={0}
+          y2={250}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          x1={538.3333333333333}
+          x2={538.3333333333333}
+          y1={0}
+          y2={250}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          x1={559.4444444444445}
+          x2={559.4444444444445}
+          y1={0}
+          y2={250}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          x1={580.5555555555555}
+          x2={580.5555555555555}
+          y1={0}
+          y2={250}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          x1={601.6666666666666}
+          x2={601.6666666666666}
+          y1={0}
+          y2={250}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          x1={622.7777777777777}
+          x2={622.7777777777777}
+          y1={0}
+          y2={250}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          x1={643.8888888888889}
+          x2={643.8888888888889}
+          y1={0}
+          y2={250}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          x1={665}
+          x2={665}
+          y1={0}
+          y2={250}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          x1={686.1111111111111}
+          x2={686.1111111111111}
+          y1={0}
+          y2={250}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          x1={707.2222222222222}
+          x2={707.2222222222222}
+          y1={0}
+          y2={250}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          x1={728.3333333333333}
+          x2={728.3333333333333}
+          y1={0}
+          y2={250}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          x1={749.4444444444445}
+          x2={749.4444444444445}
+          y1={0}
+          y2={250}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          x1={770.5555555555555}
+          x2={770.5555555555555}
+          y1={0}
+          y2={250}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          x1={791.6666666666666}
+          x2={791.6666666666666}
+          y1={0}
+          y2={250}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          x1={812.7777777777777}
+          x2={812.7777777777777}
+          y1={0}
+          y2={250}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          x1={833.8888888888889}
+          x2={833.8888888888889}
+          y1={0}
+          y2={250}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          x1={855}
+          x2={855}
+          y1={0}
+          y2={250}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          x1={876.1111111111111}
+          x2={876.1111111111111}
+          y1={0}
+          y2={250}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          x1={897.2222222222222}
+          x2={897.2222222222222}
+          y1={0}
+          y2={250}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          x1={918.3333333333333}
+          x2={918.3333333333333}
+          y1={0}
+          y2={250}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          x1={939.4444444444445}
+          x2={939.4444444444445}
+          y1={0}
+          y2={250}
+        />
+      </g>
+      <g
+        className="rv-xy-plot__grid-lines undefined"
+        transform="translate(40,10)"
+      >
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          x1={0}
+          x2={950}
+          y1={250}
+          y2={250}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          x1={0}
+          x2={950}
+          y1={204.5454545454546}
+          y2={204.5454545454546}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          x1={0}
+          x2={950}
+          y1={159.0909090909091}
+          y2={159.0909090909091}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          x1={0}
+          x2={950}
+          y1={113.63636363636368}
+          y2={113.63636363636368}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          x1={0}
+          x2={950}
+          y1={68.18181818181819}
+          y2={68.18181818181819}
+        />
+        <line
+          className="rv-xy-plot__grid-lines__line"
+          x1={0}
+          x2={950}
+          y1={22.727272727272663}
+          y2={22.727272727272663}
+        />
+      </g>
+      <g
+        className="rv-xy-plot__axis rv-xy-plot__axis--horizontal "
+        style={Object {}}
+        transform="translate(40,260)"
+      >
+        <line
+          className="rv-xy-plot__axis__line"
+          style={Object {}}
+          x1={0}
+          x2={950}
+          y1={0}
+          y2={0}
+        />
+        <g
+          className="rv-xy-plot__axis__ticks"
+          transform="translate(0, 0)"
+        >
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(10.555555555555543, 0)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={0}
+              x2={0}
+              y1={-6}
+              y2={6}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.72em"
+              style={Object {}}
+              textAnchor="middle"
+              transform="translate(0, 14)"
+            >
+              01/16
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(31.666666666666654, 0)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={0}
+              x2={0}
+              y1={-6}
+              y2={6}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.72em"
+              style={Object {}}
+              textAnchor="middle"
+              transform="translate(0, 14)"
+            >
+              02/16
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(52.777777777777764, 0)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={0}
+              x2={0}
+              y1={-6}
+              y2={6}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.72em"
+              style={Object {}}
+              textAnchor="middle"
+              transform="translate(0, 14)"
+            >
+              03/16
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(73.88888888888887, 0)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={0}
+              x2={0}
+              y1={-6}
+              y2={6}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.72em"
+              style={Object {}}
+              textAnchor="middle"
+              transform="translate(0, 14)"
+            >
+              04/16
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(94.99999999999999, 0)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={0}
+              x2={0}
+              y1={-6}
+              y2={6}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.72em"
+              style={Object {}}
+              textAnchor="middle"
+              transform="translate(0, 14)"
+            >
+              05/16
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(116.1111111111111, 0)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={0}
+              x2={0}
+              y1={-6}
+              y2={6}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.72em"
+              style={Object {}}
+              textAnchor="middle"
+              transform="translate(0, 14)"
+            >
+              06/16
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(137.2222222222222, 0)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={0}
+              x2={0}
+              y1={-6}
+              y2={6}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.72em"
+              style={Object {}}
+              textAnchor="middle"
+              transform="translate(0, 14)"
+            >
+              07/16
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(158.33333333333331, 0)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={0}
+              x2={0}
+              y1={-6}
+              y2={6}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.72em"
+              style={Object {}}
+              textAnchor="middle"
+              transform="translate(0, 14)"
+            >
+              08/16
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(179.44444444444443, 0)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={0}
+              x2={0}
+              y1={-6}
+              y2={6}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.72em"
+              style={Object {}}
+              textAnchor="middle"
+              transform="translate(0, 14)"
+            >
+              09/16
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(200.55555555555554, 0)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={0}
+              x2={0}
+              y1={-6}
+              y2={6}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.72em"
+              style={Object {}}
+              textAnchor="middle"
+              transform="translate(0, 14)"
+            >
+              10/16
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(221.66666666666666, 0)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={0}
+              x2={0}
+              y1={-6}
+              y2={6}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.72em"
+              style={Object {}}
+              textAnchor="middle"
+              transform="translate(0, 14)"
+            >
+              11/16
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(242.77777777777777, 0)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={0}
+              x2={0}
+              y1={-6}
+              y2={6}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.72em"
+              style={Object {}}
+              textAnchor="middle"
+              transform="translate(0, 14)"
+            >
+              12/16
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(263.88888888888886, 0)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={0}
+              x2={0}
+              y1={-6}
+              y2={6}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.72em"
+              style={Object {}}
+              textAnchor="middle"
+              transform="translate(0, 14)"
+            >
+              01/17
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(285, 0)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={0}
+              x2={0}
+              y1={-6}
+              y2={6}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.72em"
+              style={Object {}}
+              textAnchor="middle"
+              transform="translate(0, 14)"
+            >
+              02/17
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(306.1111111111111, 0)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={0}
+              x2={0}
+              y1={-6}
+              y2={6}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.72em"
+              style={Object {}}
+              textAnchor="middle"
+              transform="translate(0, 14)"
+            >
+              03/17
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(327.22222222222223, 0)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={0}
+              x2={0}
+              y1={-6}
+              y2={6}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.72em"
+              style={Object {}}
+              textAnchor="middle"
+              transform="translate(0, 14)"
+            >
+              04/17
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(348.3333333333333, 0)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={0}
+              x2={0}
+              y1={-6}
+              y2={6}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.72em"
+              style={Object {}}
+              textAnchor="middle"
+              transform="translate(0, 14)"
+            >
+              05/17
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(369.4444444444444, 0)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={0}
+              x2={0}
+              y1={-6}
+              y2={6}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.72em"
+              style={Object {}}
+              textAnchor="middle"
+              transform="translate(0, 14)"
+            >
+              06/17
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(390.55555555555554, 0)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={0}
+              x2={0}
+              y1={-6}
+              y2={6}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.72em"
+              style={Object {}}
+              textAnchor="middle"
+              transform="translate(0, 14)"
+            >
+              07/17
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(411.66666666666663, 0)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={0}
+              x2={0}
+              y1={-6}
+              y2={6}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.72em"
+              style={Object {}}
+              textAnchor="middle"
+              transform="translate(0, 14)"
+            >
+              08/17
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(432.77777777777777, 0)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={0}
+              x2={0}
+              y1={-6}
+              y2={6}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.72em"
+              style={Object {}}
+              textAnchor="middle"
+              transform="translate(0, 14)"
+            >
+              09/17
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(453.88888888888886, 0)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={0}
+              x2={0}
+              y1={-6}
+              y2={6}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.72em"
+              style={Object {}}
+              textAnchor="middle"
+              transform="translate(0, 14)"
+            >
+              10/17
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(475, 0)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={0}
+              x2={0}
+              y1={-6}
+              y2={6}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.72em"
+              style={Object {}}
+              textAnchor="middle"
+              transform="translate(0, 14)"
+            >
+              11/17
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(496.1111111111111, 0)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={0}
+              x2={0}
+              y1={-6}
+              y2={6}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.72em"
+              style={Object {}}
+              textAnchor="middle"
+              transform="translate(0, 14)"
+            >
+              12/17
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(517.2222222222222, 0)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={0}
+              x2={0}
+              y1={-6}
+              y2={6}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.72em"
+              style={Object {}}
+              textAnchor="middle"
+              transform="translate(0, 14)"
+            >
+              01/18
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(538.3333333333333, 0)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={0}
+              x2={0}
+              y1={-6}
+              y2={6}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.72em"
+              style={Object {}}
+              textAnchor="middle"
+              transform="translate(0, 14)"
+            >
+              02/18
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(559.4444444444445, 0)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={0}
+              x2={0}
+              y1={-6}
+              y2={6}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.72em"
+              style={Object {}}
+              textAnchor="middle"
+              transform="translate(0, 14)"
+            >
+              03/18
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(580.5555555555555, 0)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={0}
+              x2={0}
+              y1={-6}
+              y2={6}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.72em"
+              style={Object {}}
+              textAnchor="middle"
+              transform="translate(0, 14)"
+            >
+              04/18
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(601.6666666666666, 0)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={0}
+              x2={0}
+              y1={-6}
+              y2={6}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.72em"
+              style={Object {}}
+              textAnchor="middle"
+              transform="translate(0, 14)"
+            >
+              05/18
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(622.7777777777777, 0)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={0}
+              x2={0}
+              y1={-6}
+              y2={6}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.72em"
+              style={Object {}}
+              textAnchor="middle"
+              transform="translate(0, 14)"
+            >
+              06/18
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(643.8888888888889, 0)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={0}
+              x2={0}
+              y1={-6}
+              y2={6}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.72em"
+              style={Object {}}
+              textAnchor="middle"
+              transform="translate(0, 14)"
+            >
+              07/18
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(665, 0)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={0}
+              x2={0}
+              y1={-6}
+              y2={6}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.72em"
+              style={Object {}}
+              textAnchor="middle"
+              transform="translate(0, 14)"
+            >
+              08/18
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(686.1111111111111, 0)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={0}
+              x2={0}
+              y1={-6}
+              y2={6}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.72em"
+              style={Object {}}
+              textAnchor="middle"
+              transform="translate(0, 14)"
+            >
+              09/18
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(707.2222222222222, 0)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={0}
+              x2={0}
+              y1={-6}
+              y2={6}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.72em"
+              style={Object {}}
+              textAnchor="middle"
+              transform="translate(0, 14)"
+            >
+              10/18
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(728.3333333333333, 0)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={0}
+              x2={0}
+              y1={-6}
+              y2={6}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.72em"
+              style={Object {}}
+              textAnchor="middle"
+              transform="translate(0, 14)"
+            >
+              11/18
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(749.4444444444445, 0)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={0}
+              x2={0}
+              y1={-6}
+              y2={6}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.72em"
+              style={Object {}}
+              textAnchor="middle"
+              transform="translate(0, 14)"
+            >
+              12/18
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(770.5555555555555, 0)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={0}
+              x2={0}
+              y1={-6}
+              y2={6}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.72em"
+              style={Object {}}
+              textAnchor="middle"
+              transform="translate(0, 14)"
+            >
+              01/19
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(791.6666666666666, 0)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={0}
+              x2={0}
+              y1={-6}
+              y2={6}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.72em"
+              style={Object {}}
+              textAnchor="middle"
+              transform="translate(0, 14)"
+            >
+              02/19
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(812.7777777777777, 0)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={0}
+              x2={0}
+              y1={-6}
+              y2={6}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.72em"
+              style={Object {}}
+              textAnchor="middle"
+              transform="translate(0, 14)"
+            >
+              03/19
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(833.8888888888889, 0)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={0}
+              x2={0}
+              y1={-6}
+              y2={6}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.72em"
+              style={Object {}}
+              textAnchor="middle"
+              transform="translate(0, 14)"
+            >
+              04/19
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(855, 0)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={0}
+              x2={0}
+              y1={-6}
+              y2={6}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.72em"
+              style={Object {}}
+              textAnchor="middle"
+              transform="translate(0, 14)"
+            >
+              05/19
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(876.1111111111111, 0)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={0}
+              x2={0}
+              y1={-6}
+              y2={6}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.72em"
+              style={Object {}}
+              textAnchor="middle"
+              transform="translate(0, 14)"
+            >
+              06/19
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(897.2222222222222, 0)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={0}
+              x2={0}
+              y1={-6}
+              y2={6}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.72em"
+              style={Object {}}
+              textAnchor="middle"
+              transform="translate(0, 14)"
+            >
+              07/19
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(918.3333333333333, 0)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={0}
+              x2={0}
+              y1={-6}
+              y2={6}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.72em"
+              style={Object {}}
+              textAnchor="middle"
+              transform="translate(0, 14)"
+            >
+              08/19
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(939.4444444444445, 0)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={0}
+              x2={0}
+              y1={-6}
+              y2={6}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.72em"
+              style={Object {}}
+              textAnchor="middle"
+              transform="translate(0, 14)"
+            >
+              09/19
+            </text>
+          </g>
+        </g>
+      </g>
+      <g
+        className="rv-xy-plot__axis rv-xy-plot__axis--vertical "
+        style={Object {}}
+        transform="translate(0,10)"
+      >
+        <line
+          className="rv-xy-plot__axis__line"
+          style={Object {}}
+          x1={40}
+          x2={40}
+          y1={0}
+          y2={250}
+        />
+        <g
+          className="rv-xy-plot__axis__ticks"
+          transform="translate(40, 0)"
+        >
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(0, 250)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={6}
+              x2={-6}
+              y1={0}
+              y2={0}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.32em"
+              style={Object {}}
+              textAnchor="end"
+              transform="translate(-14, 0)"
+            >
+              3.2
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(0, 204.5454545454546)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={6}
+              x2={-6}
+              y1={0}
+              y2={0}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.32em"
+              style={Object {}}
+              textAnchor="end"
+              transform="translate(-14, 0)"
+            >
+              3.4
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(0, 159.0909090909091)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={6}
+              x2={-6}
+              y1={0}
+              y2={0}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.32em"
+              style={Object {}}
+              textAnchor="end"
+              transform="translate(-14, 0)"
+            >
+              3.6
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(0, 113.63636363636368)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={6}
+              x2={-6}
+              y1={0}
+              y2={0}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.32em"
+              style={Object {}}
+              textAnchor="end"
+              transform="translate(-14, 0)"
+            >
+              3.8
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(0, 68.18181818181819)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={6}
+              x2={-6}
+              y1={0}
+              y2={0}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.32em"
+              style={Object {}}
+              textAnchor="end"
+              transform="translate(-14, 0)"
+            >
+              4.0
+            </text>
+          </g>
+          <g
+            className="rv-xy-plot__axis__tick"
+            style={Object {}}
+            transform="translate(0, 22.727272727272663)"
+          >
+            <line
+              className="rv-xy-plot__axis__tick__line"
+              style={Object {}}
+              x1={6}
+              x2={-6}
+              y1={0}
+              y2={0}
+            />
+            <text
+              className="rv-xy-plot__axis__tick__text"
+              dy="0.32em"
+              style={Object {}}
+              textAnchor="end"
+              transform="translate(-14, 0)"
+            >
+              4.2
+            </text>
+          </g>
+        </g>
+      </g>
+      <path
+        className="rv-xy-plot__series rv-xy-plot__series--line "
+        d="M10.555555555555543,45.454545454545496L31.666666666666654,0L52.777777777777764,45.454545454545496L73.88888888888887,113.63636363636368L94.99999999999999,68.18181818181819L116.1111111111111,90.9090909090909L137.2222222222222,113.63636363636368L158.33333333333331,113.63636363636368L179.44444444444443,90.9090909090909L200.55555555555554,159.0909090909091L221.66666666666666,159.0909090909091L242.77777777777777,159.0909090909091"
+        onClick={[Function]}
+        onContextMenu={[Function]}
+        onMouseOut={[Function]}
+        onMouseOver={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+            "stroke": "#12939A",
+            "strokeDasharray": undefined,
+            "strokeWidth": undefined,
+          }
+        }
+        transform="translate(40,10)"
+      />
+      <path
+        className="rv-xy-plot__series rv-xy-plot__series--line "
+        d="M263.88888888888886,181.81818181818184L285,181.81818181818184L306.1111111111111,181.81818181818184L327.22222222222223,181.81818181818184L348.3333333333333,159.0909090909091L369.4444444444444,227.27272727272734L390.55555555555554,227.27272727272734L411.66666666666663,227.27272727272734L432.77777777777777,204.5454545454546L453.88888888888886,204.5454545454546L475,181.81818181818184L496.1111111111111,227.27272727272734"
+        onClick={[Function]}
+        onContextMenu={[Function]}
+        onMouseOut={[Function]}
+        onMouseOver={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+            "stroke": "#79C7E3",
+            "strokeDasharray": undefined,
+            "strokeWidth": undefined,
+          }
+        }
+        transform="translate(40,10)"
+      />
+      <path
+        className="rv-xy-plot__series rv-xy-plot__series--line "
+        d="M517.2222222222222,227.27272727272734L538.3333333333333,227.27272727272734L559.4444444444445,250L580.5555555555555,204.5454545454546L601.6666666666666,250L622.7777777777777,204.5454545454546L643.8888888888889,227.27272727272734L665,227.27272727272734L686.1111111111111,204.5454545454546L707.2222222222222,250L728.3333333333333,227.27272727272734L749.4444444444445,181.81818181818184"
+        onClick={[Function]}
+        onContextMenu={[Function]}
+        onMouseOut={[Function]}
+        onMouseOver={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+            "stroke": "#1A3177",
+            "strokeDasharray": undefined,
+            "strokeWidth": undefined,
+          }
+        }
+        transform="translate(40,10)"
+      />
+      <path
+        className="rv-xy-plot__series rv-xy-plot__series--line "
+        d="M770.5555555555555,181.81818181818184L791.6666666666666,204.5454545454546L812.7777777777777,159.0909090909091L833.8888888888889,181.81818181818184L855,181.81818181818184L876.1111111111111,159.0909090909091L897.2222222222222,159.0909090909091L918.3333333333333,159.0909090909091L939.4444444444445,181.81818181818184"
+        onClick={[Function]}
+        onContextMenu={[Function]}
+        onMouseOut={[Function]}
+        onMouseOver={[Function]}
+        style={
+          Object {
+            "opacity": 1,
+            "stroke": "#FF9833",
+            "strokeDasharray": undefined,
+            "strokeWidth": undefined,
+          }
+        }
+        transform="translate(40,10)"
+      />
+    </svg>
+  </div>,
+]
+`;
